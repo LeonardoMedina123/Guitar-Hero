@@ -1,0 +1,6 @@
+.brand .brand-mark {
+  background: url('/favicon.svg') center / contain no-repeat;
+  border: 0;
+  color: transparent;
+  font-size: 0;
+}
